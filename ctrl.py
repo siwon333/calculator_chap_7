@@ -40,3 +40,5 @@ class Control:
         
         return pow(a, b)   
     
+           
+        return pow(a, b)
