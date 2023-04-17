@@ -38,7 +38,11 @@ class Control:
         except Exception as e:
             return e
         
+<<<<<<< HEAD
         return pow(a, b)   
     
            
         return pow(a, b)
+=======
+        return pow(a, b)
+>>>>>>> 18bc593 (Modify pow function using exception)
